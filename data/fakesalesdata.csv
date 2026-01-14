@@ -1,0 +1,1001 @@
+order_id,product_id,store_id,product_name,city,date_of_sale,quantity,sales_amount
+99,87,8,Headphones,Dallas,2022-04-13,1,19.29
+60,822,2,Keyboard,Chicago,2024-02-05,2,36.21
+1,427,1,Laptop,Phoenix,2021-02-25,8,68.76
+24,929,2,Laptop,San Diego,2024-01-09,8,25.71
+34,320,2,Headphones,Phoenix,2023-04-23,1,20.39
+67,667,10,Scanner,Philadelphia,2022-03-16,4,45.25
+2,235,6,Webcam,San Antonio,2022-03-19,5,17.65
+96,151,6,Mouse,Phoenix,2022-10-04,7,50.58
+23,463,4,Monitor,Phoenix,2023-12-30,4,60.2
+57,929,6,Headphones,San Diego,2022-06-11,7,21.4
+50,932,1,Headphones,Philadelphia,2023-05-19,4,10.74
+97,263,5,Smartphone,Phoenix,2022-08-02,2,15.29
+53,75,8,Scanner,San Diego,2022-07-04,8,37.57
+25,593,9,Printer,Los Angeles,2025-12-15,2,49.37
+66,163,1,Headphones,Los Angeles,2022-03-10,10,13.5
+56,593,9,Webcam,Chicago,2022-07-31,8,28.58
+24,202,2,Webcam,Houston,2025-04-25,6,49.39
+26,452,7,Smartphone,San Jose,2021-11-08,4,68.33
+13,286,3,Webcam,San Jose,2021-05-03,1,12.6
+17,348,10,Tablet,Los Angeles,2025-12-25,1,48.26
+1,474,2,Headphones,Houston,2021-11-12,3,53.4
+66,175,8,Headphones,Dallas,2023-08-18,10,55.56
+5,277,9,Printer,New York,2023-12-08,2,26.97
+39,708,4,Webcam,Houston,2025-04-03,9,72.11
+51,539,9,Webcam,Phoenix,2022-05-12,3,18.87
+40,787,1,Webcam,Chicago,2024-08-19,7,49.92
+94,211,2,Printer,San Antonio,2023-08-16,8,13.6
+57,936,2,Keyboard,Los Angeles,2022-09-06,7,64.48
+95,768,7,Tablet,Los Angeles,2023-03-29,2,21.15
+45,95,9,Monitor,San Antonio,2023-03-08,8,43.43
+14,329,7,Keyboard,Los Angeles,2022-11-10,10,48.96
+59,842,2,Webcam,Dallas,2024-04-17,6,46.76
+56,841,3,Scanner,San Jose,2021-02-12,3,69.0
+32,367,7,Headphones,Houston,2025-09-14,9,20.9
+24,749,10,Smartphone,Philadelphia,2021-02-23,6,63.71
+41,994,7,Tablet,Houston,2025-11-02,2,70.58
+80,557,9,Keyboard,Los Angeles,2023-11-29,8,51.1
+45,464,10,Tablet,San Jose,2023-05-28,8,71.25
+70,740,10,Headphones,Chicago,2025-09-27,2,59.4
+30,830,9,Monitor,Los Angeles,2023-08-05,9,60.94
+99,611,10,Keyboard,Philadelphia,2023-05-04,3,68.28
+22,472,7,Monitor,Chicago,2021-12-19,3,50.26
+26,697,5,Scanner,San Diego,2021-10-05,8,46.56
+75,475,10,Printer,San Diego,2022-05-02,1,19.8
+75,179,2,Mouse,New York,2025-05-01,6,27.89
+56,65,7,Mouse,San Diego,2024-10-31,6,35.97
+28,996,9,Scanner,Dallas,2024-11-23,1,61.96
+34,987,5,Webcam,San Antonio,2023-11-02,6,27.24
+46,529,7,Tablet,San Antonio,2021-09-27,3,57.38
+82,598,6,Monitor,Los Angeles,2024-01-18,4,34.69
+81,634,2,Mouse,San Jose,2023-04-03,10,24.65
+83,374,5,Tablet,Phoenix,2021-07-19,10,62.78
+69,545,9,Laptop,Phoenix,2025-02-24,3,29.8
+44,283,3,Mouse,San Antonio,2025-05-25,8,48.48
+62,579,7,Keyboard,Dallas,2023-06-12,2,50.1
+40,414,1,Keyboard,San Diego,2025-05-03,6,38.71
+51,137,5,Headphones,Chicago,2022-06-26,9,71.5
+34,392,6,Laptop,Chicago,2022-01-30,1,30.36
+48,339,9,Printer,San Antonio,2023-04-01,7,38.39
+2,657,2,Webcam,Chicago,2021-06-22,9,40.95
+68,330,4,Laptop,New York,2026-01-07,10,27.14
+18,824,5,Tablet,Houston,2021-04-26,6,53.87
+63,387,5,Headphones,Chicago,2021-10-25,1,61.5
+40,609,9,Mouse,Dallas,2022-12-06,10,49.47
+100,349,2,Monitor,Los Angeles,2023-11-05,3,73.87
+31,761,10,Scanner,Los Angeles,2024-12-20,8,38.7274524724172
+61,226,8,Keyboard,Houston,2022-02-28,6,74.15
+44,300,3,Mouse,Houston,2024-10-11,6,26.34
+60,201,8,Headphones,San Diego,2024-09-02,3,22.4
+8,731,10,Laptop,Philadelphia,2021-03-13,6,47.6
+54,117,8,Webcam,Phoenix,2024-08-13,2,12.98
+7,765,6,Headphones,Los Angeles,2023-07-08,2,39.61
+28,870,8,Scanner,New York,2021-10-03,3,32.75
+8,317,6,Monitor,New York,2023-04-23,9,63.7
+75,216,5,Laptop,Los Angeles,2022-12-16,4,17.68
+52,507,6,Webcam,San Jose,2026-01-06,9,49.79
+91,759,10,Smartphone,Houston,2021-06-30,6,23.96
+19,874,9,Mouse,Dallas,2021-09-21,6,71.26
+20,854,7,Mouse,Houston,2021-09-09,3,45.33
+36,563,5,Mouse,Houston,2023-10-16,5,34.3
+71,866,9,Printer,San Jose,2023-02-10,1,42.86
+24,663,6,Tablet,Dallas,2021-08-11,3,21.73
+73,772,6,Smartphone,Houston,2023-09-19,5,74.34
+77,878,7,Keyboard,Houston,2026-01-03,4,64.62
+92,572,2,Keyboard,New York,2022-01-01,8,73.3
+28,340,6,Smartphone,Philadelphia,2024-04-23,9,52.34
+93,790,5,Monitor,San Jose,2024-03-14,3,23.71
+62,473,3,Webcam,Chicago,2024-02-08,9,59.42
+18,996,8,Tablet,San Diego,2022-04-17,5,33.65
+16,70,8,Webcam,Dallas,2024-02-18,9,12.17
+71,592,4,Headphones,San Diego,2022-02-23,8,12.65
+71,419,6,Mouse,Chicago,2021-03-11,5,28.2
+36,145,6,Smartphone,Chicago,2025-11-19,2,34.85
+68,678,2,Headphones,Philadelphia,2021-03-23,3,72.17
+64,794,1,Mouse,San Diego,2021-06-25,7,54.91
+86,201,10,Webcam,San Diego,2024-05-02,5,25.49
+96,780,6,Laptop,Chicago,2024-08-24,1,72.95
+59,810,8,Smartphone,Philadelphia,2025-08-13,6,24.18
+91,227,3,Monitor,Philadelphia,2022-04-04,5,10.7
+100,837,2,Mouse,Chicago,2022-03-15,9,61.85
+98,789,8,Tablet,Houston,2023-02-09,9,35.31
+52,568,4,Smartphone,Philadelphia,2022-03-10,3,47.43
+66,693,2,Keyboard,Dallas,2021-03-07,10,25.3
+1,112,1,Laptop,Chicago,2024-10-17,4,66.22
+85,636,5,Webcam,Philadelphia,2024-07-28,8,68.19
+58,281,8,Scanner,Houston,2024-05-19,5,54.82
+45,450,2,Scanner,San Diego,2025-11-09,7,59.48
+73,980,10,Laptop,Houston,2023-06-05,1,40.97
+80,672,7,Mouse,Phoenix,2022-08-21,8,46.52
+8,773,4,Smartphone,Philadelphia,2024-10-19,2,61.94
+16,136,7,Headphones,Phoenix,2021-07-11,10,56.66
+77,996,4,Keyboard,New York,2023-05-24,3,69.53
+26,737,1,Webcam,Dallas,2024-09-06,4,52.71
+63,434,7,Keyboard,Phoenix,2023-07-22,1,60.2
+91,131,9,Monitor,Dallas,2024-06-29,2,15.62
+15,170,9,Keyboard,San Jose,2024-05-26,7,19.84
+79,550,9,Webcam,Philadelphia,2021-10-28,9,40.22
+92,644,2,Webcam,Chicago,2021-09-18,3,13.59
+4,138,7,Mouse,San Diego,2023-02-06,9,36.9
+21,141,8,Keyboard,San Antonio,2025-03-11,10,12.92
+39,744,5,Printer,Houston,2023-12-10,8,70.25
+54,56,2,Mouse,San Jose,2021-04-02,3,45.45
+64,325,1,Laptop,Houston,2023-12-17,5,18.5
+88,111,6,Keyboard,Houston,2022-12-04,9,47.66
+41,779,5,Headphones,San Jose,2024-04-18,7,39.81
+23,131,7,Printer,Chicago,2021-12-29,7,64.44
+78,396,5,Scanner,Philadelphia,2021-12-01,1,61.41
+57,801,10,Printer,San Antonio,2023-06-24,5,55.66
+20,797,5,Webcam,San Jose,2021-04-16,4,45.54
+58,355,1,Mouse,New York,2024-04-10,1,38.92
+19,436,7,Keyboard,San Diego,2024-12-07,9,25.73
+1,856,1,Scanner,Philadelphia,2022-11-07,8,74.2
+60,270,10,Monitor,Chicago,2022-06-28,5,53.82
+38,812,8,Printer,Phoenix,2024-09-18,6,51.43
+40,263,8,Headphones,San Diego,2025-08-02,6,32.42
+36,733,9,Smartphone,San Antonio,2021-12-27,3,68.6
+24,704,1,Smartphone,San Jose,2024-02-01,3,45.35
+96,346,9,Smartphone,Los Angeles,2024-08-03,5,69.24
+3,716,6,Monitor,Philadelphia,2023-04-15,7,38.58
+92,794,9,Monitor,New York,2022-03-09,4,11.84
+3,199,8,Scanner,San Diego,2025-05-29,3,54.44
+41,823,6,Smartphone,Dallas,2024-05-10,10,54.35
+80,863,3,Laptop,Chicago,2024-04-21,9,42.4
+34,605,2,Smartphone,San Diego,2025-08-21,6,73.99
+84,904,8,Tablet,San Antonio,2025-10-17,8,45.98
+75,800,3,Scanner,Chicago,2022-10-14,3,22.45
+31,135,10,Printer,Phoenix,2025-04-04,8,43.68
+79,701,9,Mouse,Houston,2023-09-06,4,41.15
+2,762,4,Webcam,Chicago,2022-08-02,6,25.67
+84,355,8,Scanner,Chicago,2021-10-05,5,62.98
+4,355,8,Headphones,Los Angeles,2022-03-07,5,37.88
+37,319,3,Tablet,Dallas,2025-03-06,3,53.36
+7,860,1,Keyboard,Los Angeles,2025-03-01,7,43.5
+27,417,1,Webcam,San Diego,2023-08-18,1,50.93
+86,854,5,Keyboard,Los Angeles,2024-01-31,4,10.56
+63,571,7,Keyboard,San Jose,2026-01-01,5,26.7
+67,214,10,Laptop,Chicago,2025-12-19,3,38.15
+59,835,3,Headphones,Philadelphia,2022-09-09,2,70.54921117578859
+16,198,4,Headphones,Houston,2021-01-31,10,32.77
+94,600,3,Webcam,Phoenix,2022-12-15,8,42.95
+91,803,5,Mouse,New York,2024-02-24,9,52.59
+18,890,2,Laptop,San Diego,2021-12-14,9,50.23
+47,559,9,Webcam,San Jose,2024-05-09,5,67.82
+86,638,3,Scanner,Philadelphia,2022-11-22,8,51.28
+21,323,5,Keyboard,San Antonio,2021-05-25,2,61.36
+11,930,8,Laptop,Phoenix,2021-05-01,4,59.41
+90,689,1,Keyboard,San Diego,2023-04-12,2,41.12
+49,712,5,Tablet,New York,2021-12-15,8,40.92
+1,941,10,Smartphone,Phoenix,2022-10-30,5,45.46
+33,107,3,Keyboard,Los Angeles,2024-05-19,4,47.3
+63,677,3,Scanner,San Antonio,2021-10-15,7,56.9
+1,674,6,Smartphone,Phoenix,2024-07-11,7,71.57
+12,965,8,Keyboard,Dallas,2021-06-24,1,57.97
+30,656,7,Tablet,Phoenix,2024-03-01,1,32.81
+44,172,5,Headphones,Phoenix,2025-09-03,9,32.29
+75,958,6,Laptop,San Antonio,2021-01-26,10,37.89
+84,457,1,Mouse,San Jose,2022-11-18,3,61.26
+83,151,8,Keyboard,San Antonio,2024-06-13,5,28.67
+70,953,1,Mouse,San Diego,2022-03-01,5,54.34
+74,951,4,Mouse,Houston,2022-05-22,9,25.76
+54,961,9,Mouse,Los Angeles,2024-03-17,2,42.4
+9,769,2,Headphones,Dallas,2021-01-21,9,22.37
+48,232,8,Webcam,Dallas,2022-12-08,10,24.3
+79,681,4,Keyboard,Philadelphia,2024-04-28,5,58.26
+79,685,10,Webcam,Chicago,2021-04-15,8,73.47
+44,910,2,Mouse,Phoenix,2023-03-28,1,54.98
+58,728,7,Scanner,New York,2025-09-13,2,67.41
+94,356,6,Headphones,Chicago,2023-06-01,4,38.96
+8,947,9,Tablet,Philadelphia,2023-04-29,10,42.52
+25,456,4,Mouse,Los Angeles,2024-05-31,7,14.34
+55,199,8,Monitor,Dallas,2022-06-10,6,61.65
+63,318,10,Tablet,Phoenix,2022-09-28,7,24.84
+54,799,10,Webcam,Chicago,2023-10-07,2,71.81
+34,138,7,Monitor,San Antonio,2023-07-16,4,67.28
+88,722,6,Tablet,Chicago,2023-08-22,2,45.91
+4,380,2,Tablet,San Antonio,2022-08-14,2,46.82
+90,575,3,Laptop,San Antonio,2024-03-25,4,14.9
+20,811,2,Mouse,Phoenix,2022-09-14,5,20.43
+19,775,9,Headphones,Chicago,2022-09-18,2,16.98
+40,646,7,Mouse,Houston,2022-09-09,4,35.91
+25,385,9,Webcam,Los Angeles,2021-08-26,9,22.8
+47,790,9,Printer,Houston,2024-10-31,10,72.32
+78,265,1,Headphones,Chicago,2021-11-03,5,30.4
+46,195,10,Tablet,New York,2025-02-12,10,25.72
+5,350,8,Monitor,Philadelphia,2022-07-16,9,68.75
+66,230,7,Monitor,San Diego,2022-04-04,1,63.7
+71,671,10,Webcam,San Antonio,2023-11-20,5,57.75
+35,131,8,Scanner,Philadelphia,2024-01-29,4,11.75
+45,853,2,Headphones,Los Angeles,2023-07-26,9,72.43
+25,245,4,Mouse,Dallas,2023-04-15,9,11.1
+13,903,10,Printer,Philadelphia,2024-10-30,10,49.49
+45,573,4,Tablet,Phoenix,2025-05-01,5,69.69
+36,465,4,Headphones,San Antonio,2025-04-24,8,11.1
+95,608,3,Webcam,Philadelphia,2021-06-03,2,15.66
+59,482,7,Laptop,Chicago,2025-06-12,8,34.18
+48,239,3,Printer,San Jose,2025-02-19,8,34.5
+20,348,3,Mouse,Los Angeles,2024-07-04,8,21.62
+20,706,10,Scanner,Dallas,2024-10-19,10,73.8
+77,966,8,Headphones,San Diego,2023-03-30,3,17.97
+72,942,4,Laptop,San Jose,2021-04-04,9,69.73
+24,958,2,Keyboard,Los Angeles,2025-12-23,1,36.23
+47,87,10,Headphones,Phoenix,2023-08-22,3,36.79
+65,93,7,Scanner,Dallas,2022-10-07,7,35.12
+62,499,3,Keyboard,San Diego,2021-05-19,10,49.7
+88,523,2,Scanner,Los Angeles,2021-08-20,10,39.83
+25,740,2,Scanner,Chicago,2025-03-10,4,49.9
+47,900,2,Tablet,Dallas,2025-01-06,7,17.88
+63,823,10,Webcam,Los Angeles,2022-02-25,8,61.61
+27,248,5,Webcam,San Jose,2024-10-09,4,59.98
+55,812,4,Laptop,Houston,2025-11-03,10,26.12
+80,510,10,Keyboard,New York,2022-10-07,3,60.68
+7,370,2,Scanner,San Antonio,2024-03-17,3,39.17
+4,793,1,Printer,San Diego,2021-12-06,10,71.85
+24,837,6,Laptop,San Diego,2025-12-01,3,54.7
+9,223,4,Webcam,Philadelphia,2022-03-23,10,37.59
+38,845,2,Laptop,Phoenix,2023-03-01,7,32.68
+65,508,5,Monitor,Dallas,2021-11-14,5,48.8
+18,775,10,Headphones,Houston,2025-06-15,5,27.56
+7,745,4,Webcam,Chicago,2022-03-16,10,58.95
+39,365,9,Scanner,Phoenix,2022-11-02,3,31.99
+18,912,2,Keyboard,Houston,2022-02-25,2,51.61
+49,153,4,Keyboard,Los Angeles,2025-12-11,6,60.25
+12,613,3,Printer,Chicago,2024-04-26,2,43.32
+15,643,2,Smartphone,Los Angeles,2025-05-24,10,70.96
+8,55,9,Scanner,Philadelphia,2022-03-09,7,28.82
+47,675,3,Keyboard,New York,2022-07-14,4,50.91
+60,720,10,Tablet,New York,2023-06-06,8,33.94
+11,519,3,Monitor,New York,2025-07-14,3,29.22
+37,301,9,Tablet,Los Angeles,2022-02-03,7,35.7
+51,150,3,Webcam,Dallas,2022-07-17,2,11.73
+13,120,9,Laptop,Phoenix,2023-04-03,7,49.4
+16,748,4,Scanner,Phoenix,2024-04-23,4,51.54
+98,577,6,Smartphone,Los Angeles,2022-10-20,10,19.94
+80,650,6,Tablet,San Jose,2024-04-18,5,29.63
+73,204,1,Smartphone,San Antonio,2022-03-12,10,59.5
+12,156,5,Smartphone,Chicago,2025-11-28,5,66.76
+37,428,2,Printer,San Diego,2024-07-24,1,67.46
+100,859,9,Scanner,San Antonio,2025-02-23,10,39.75
+86,167,3,Laptop,Phoenix,2021-05-18,9,44.42
+27,380,7,Laptop,San Jose,2025-05-01,7,62.85
+20,77,1,Laptop,Dallas,2022-10-20,8,37.58
+17,465,8,Webcam,Los Angeles,2024-10-13,5,36.97
+15,805,9,Keyboard,Philadelphia,2021-12-24,2,41.7
+28,707,2,Scanner,Los Angeles,2023-10-20,2,18.57
+5,535,1,Webcam,San Antonio,2022-05-21,6,40.21
+50,793,6,Tablet,New York,2025-02-15,8,69.62
+49,413,1,Headphones,San Jose,2023-11-15,10,73.31
+69,413,3,Keyboard,San Jose,2024-06-11,7,25.92
+91,370,2,Printer,Houston,2022-03-17,6,19.86
+55,400,6,Monitor,Chicago,2025-04-26,8,25.23
+15,202,2,Printer,New York,2024-01-05,6,29.23
+36,433,7,Mouse,Phoenix,2023-07-11,5,64.59
+19,610,9,Headphones,San Diego,2021-06-25,2,38.55
+29,796,3,Tablet,Houston,2024-03-12,3,42.49
+79,826,10,Printer,Houston,2022-05-21,2,73.71
+20,417,7,Scanner,Houston,2021-10-12,10,55.29
+88,452,9,Monitor,Chicago,2021-05-11,3,37.27
+38,629,9,Scanner,Phoenix,2023-07-20,4,53.52
+70,628,4,Headphones,Chicago,2023-07-14,6,19.22
+26,447,4,Keyboard,Phoenix,2021-04-20,3,55.55
+62,535,8,Smartphone,New York,2023-01-19,1,46.13
+82,144,3,Laptop,San Jose,2023-10-16,4,21.43
+88,893,3,Mouse,San Jose,2022-01-04,9,53.43
+50,134,10,Mouse,Phoenix,2023-05-20,9,35.69
+39,187,3,Scanner,San Jose,2023-10-29,7,63.92
+9,469,5,Monitor,New York,2025-05-11,3,70.5
+0,534,1,Headphones,San Diego,2022-06-22,1,34.91
+56,719,6,Tablet,San Jose,2023-10-31,8,55.18
+60,789,9,Headphones,Los Angeles,2025-04-23,5,35.51
+60,690,4,Printer,San Antonio,2023-04-17,8,59.67
+64,820,7,Laptop,Houston,2024-04-18,4,28.17
+51,286,5,Mouse,Houston,2024-07-22,4,26.79
+56,362,2,Smartphone,Dallas,2024-03-21,3,32.51
+45,718,7,Monitor,New York,2024-08-21,6,39.16
+95,895,2,Tablet,San Diego,2022-11-15,5,21.48
+66,612,4,Scanner,New York,2025-05-04,7,23.93
+21,302,5,Headphones,San Antonio,2021-11-19,3,47.11
+28,327,8,Scanner,Houston,2023-05-08,3,37.96
+53,197,3,Tablet,Philadelphia,2022-08-29,8,45.87
+79,546,4,Keyboard,Chicago,2023-06-07,1,74.74
+11,440,4,Mouse,Houston,2023-10-31,4,59.8
+59,231,5,Printer,Phoenix,2021-02-14,8,55.66
+96,691,4,Keyboard,Chicago,2025-09-04,1,23.3
+46,975,3,Printer,Phoenix,2022-11-07,1,52.13
+89,704,10,Webcam,Chicago,2021-12-21,3,68.36
+40,864,4,Webcam,Philadelphia,2025-09-29,9,17.6
+44,270,9,Mouse,Philadelphia,2023-10-25,9,27.23
+82,994,2,Laptop,Houston,2024-02-20,6,37.74
+52,506,1,Smartphone,Philadelphia,2023-11-24,9,20.24
+57,922,3,Tablet,New York,2023-10-09,4,44.31
+73,465,3,Laptop,San Jose,2022-04-29,5,69.74
+8,440,7,Printer,San Diego,2024-03-21,1,10.61
+87,605,9,Tablet,Houston,2021-06-14,7,27.35
+63,916,6,Headphones,San Jose,2021-03-23,10,25.54
+60,992,1,Monitor,New York,2023-08-15,6,53.86
+7,765,6,Tablet,New York,2025-03-27,7,11.56
+77,728,4,Headphones,New York,2024-06-04,9,69.42
+83,188,5,Laptop,New York,2025-09-15,2,69.91
+67,637,1,Scanner,New York,2022-03-20,9,39.86
+50,597,3,Tablet,Philadelphia,2024-12-28,8,18.69
+66,713,5,Smartphone,Chicago,2021-12-10,9,32.73
+22,613,5,Tablet,San Diego,2022-09-22,1,65.89
+31,474,9,Printer,San Diego,2024-04-07,4,19.75
+46,430,9,Headphones,San Jose,2022-02-09,6,70.18
+35,890,4,Keyboard,Houston,2023-03-04,9,28.8
+27,917,8,Keyboard,Phoenix,2024-12-01,2,54.53
+21,726,5,Keyboard,Philadelphia,2021-09-15,5,60.28
+67,369,3,Scanner,San Antonio,2022-06-16,9,49.81
+46,870,5,Monitor,Houston,2022-04-09,2,49.27
+79,559,5,Scanner,New York,2024-05-06,7,67.67
+4,231,9,Laptop,San Jose,2021-07-23,6,57.89
+91,924,5,Headphones,San Diego,2023-05-16,6,13.89
+18,881,4,Smartphone,New York,2024-06-12,1,20.77
+58,732,4,Mouse,Houston,2022-05-16,2,51.2
+40,736,5,Webcam,San Antonio,2022-07-19,2,22.11
+40,750,2,Printer,San Antonio,2024-03-17,10,58.91
+20,918,10,Smartphone,San Antonio,2025-06-19,7,19.93
+93,73,9,Webcam,New York,2021-10-27,6,17.64
+65,395,5,Keyboard,Chicago,2021-07-23,7,39.58
+18,349,5,Headphones,Phoenix,2025-01-08,5,66.77
+51,187,3,Scanner,Philadelphia,2023-06-17,10,11.79
+65,982,8,Keyboard,New York,2022-06-27,10,13.99
+97,257,10,Scanner,Los Angeles,2023-06-24,3,40.8
+27,701,5,Keyboard,Phoenix,2023-11-09,8,60.46
+94,227,9,Scanner,Dallas,2024-06-17,1,40.26
+30,650,9,Headphones,Philadelphia,2022-01-29,10,16.97
+77,968,6,Mouse,Philadelphia,2024-11-27,8,21.6
+74,724,2,Tablet,Philadelphia,2025-12-20,10,63.44
+11,160,1,Laptop,Houston,2022-06-02,4,46.66
+58,81,10,Webcam,Dallas,2025-04-29,5,66.23
+64,75,6,Keyboard,Dallas,2021-01-13,2,73.77
+21,808,5,Scanner,San Diego,2024-05-27,2,53.77
+80,124,5,Tablet,San Antonio,2024-08-27,7,12.67
+72,357,7,Tablet,Dallas,2025-11-29,5,65.79
+38,908,5,Keyboard,Los Angeles,2024-04-05,6,24.78
+88,628,9,Webcam,Los Angeles,2021-02-20,5,25.17
+82,852,4,Smartphone,Dallas,2025-05-14,5,52.47
+21,304,10,Keyboard,Philadelphia,2021-05-26,2,33.86
+65,148,4,Scanner,New York,2025-10-02,10,13.46
+97,729,9,Monitor,San Jose,2021-07-19,3,50.16
+26,130,2,Mouse,Phoenix,2021-10-09,6,15.62
+97,636,8,Webcam,San Jose,2022-11-06,10,43.4
+12,731,4,Printer,San Diego,2022-01-01,3,62.53
+99,767,3,Webcam,New York,2021-03-20,5,57.33
+55,922,8,Tablet,San Antonio,2021-04-22,7,13.3
+78,69,4,Monitor,San Jose,2022-03-05,10,17.58
+100,730,3,Laptop,Chicago,2023-09-18,2,11.27
+27,708,1,Smartphone,San Diego,2021-06-19,8,45.73
+23,402,1,Tablet,Dallas,2021-12-18,3,37.15
+15,141,7,Smartphone,San Diego,2023-08-17,10,46.63
+24,914,5,Smartphone,Philadelphia,2025-09-01,3,19.6
+56,899,10,Tablet,Los Angeles,2022-03-03,3,11.9
+70,980,7,Monitor,New York,2023-02-13,9,54.62
+59,913,1,Printer,Dallas,2024-01-12,6,74.54
+77,248,4,Scanner,Los Angeles,2022-01-01,8,16.81
+51,883,8,Webcam,New York,2024-11-08,4,15.9
+9,947,9,Keyboard,San Jose,2024-08-12,2,56.7
+51,931,8,Printer,San Antonio,2024-04-02,3,36.33
+7,318,2,Scanner,Philadelphia,2024-06-04,6,43.22
+36,857,5,Printer,New York,2025-12-30,4,61.46
+60,171,7,Smartphone,Chicago,2025-05-05,2,32.27
+29,379,5,Scanner,Los Angeles,2025-12-13,3,67.68
+9,569,1,Smartphone,Dallas,2025-05-16,2,50.33
+23,399,5,Webcam,Phoenix,2021-03-08,9,36.74
+16,656,10,Scanner,Phoenix,2025-05-25,1,52.13
+29,288,7,Scanner,Phoenix,2023-03-10,6,60.56
+65,899,3,Headphones,San Diego,2024-09-02,8,56.98
+83,421,6,Headphones,San Antonio,2025-10-09,9,45.8
+94,383,9,Keyboard,Phoenix,2025-06-03,6,71.92
+28,140,2,Laptop,Houston,2024-08-29,5,71.15
+32,427,9,Printer,Phoenix,2022-12-28,5,58.8
+53,248,1,Monitor,New York,2024-02-02,6,21.83
+75,900,3,Mouse,San Diego,2023-05-10,6,57.69
+37,149,2,Tablet,San Diego,2024-09-10,4,11.3
+60,162,6,Keyboard,Philadelphia,2023-03-30,5,31.43
+56,94,10,Smartphone,Phoenix,2025-07-25,8,20.5
+75,750,4,Monitor,San Diego,2021-02-11,5,66.13
+84,862,6,Smartphone,New York,2025-04-29,8,36.26
+12,164,6,Monitor,Philadelphia,2025-08-23,9,22.11
+85,846,8,Webcam,Los Angeles,2021-08-18,7,74.68
+39,965,6,Headphones,Houston,2026-01-11,5,31.35
+50,813,1,Laptop,San Antonio,2024-02-10,1,55.79
+54,264,5,Keyboard,New York,2022-06-03,3,70.69
+36,535,1,Webcam,Dallas,2021-10-09,7,34.41
+61,378,4,Scanner,San Jose,2024-05-11,7,32.62
+46,417,5,Printer,San Diego,2023-06-08,4,47.96
+99,807,4,Tablet,Dallas,2022-03-19,6,14.45
+70,842,2,Headphones,San Antonio,2024-11-05,8,65.66
+18,874,4,Monitor,Philadelphia,2023-05-22,1,14.71
+21,871,2,Printer,San Jose,2025-06-25,9,61.2
+86,728,4,Smartphone,San Antonio,2025-04-20,3,26.14
+53,506,9,Smartphone,Philadelphia,2025-07-23,6,74.56
+26,875,8,Printer,New York,2025-10-14,10,35.79
+26,889,5,Headphones,New York,2025-03-22,1,54.71
+47,696,8,Webcam,Philadelphia,2024-05-24,5,54.78
+6,245,1,Headphones,Phoenix,2021-02-27,5,60.81
+2,747,9,Headphones,Chicago,2023-02-16,8,73.76
+17,308,2,Keyboard,Philadelphia,2022-07-14,7,15.57
+7,615,10,Webcam,San Antonio,2025-09-01,8,16.94
+16,308,6,Laptop,Philadelphia,2025-09-26,4,70.67
+65,990,4,Smartphone,Chicago,2022-09-25,8,51.7
+82,305,1,Laptop,Dallas,2024-07-25,6,56.31
+16,134,10,Laptop,Houston,2024-12-30,9,14.68
+62,762,6,Printer,New York,2022-04-18,4,27.64
+87,942,9,Tablet,San Antonio,2023-08-29,7,49.39
+89,692,3,Keyboard,Phoenix,2021-06-13,8,53.23
+56,80,4,Mouse,Dallas,2022-10-11,7,50.96
+71,847,3,Webcam,Dallas,2021-09-30,4,61.56
+26,482,8,Scanner,Dallas,2024-10-24,3,71.49
+13,972,6,Monitor,Houston,2022-07-19,7,39.93
+2,121,10,Webcam,San Diego,2023-09-11,10,58.22
+83,625,2,Tablet,Philadelphia,2022-10-19,6,30.21
+63,90,4,Scanner,Philadelphia,2022-09-20,3,56.5
+44,296,1,Tablet,San Antonio,2024-10-29,8,42.39
+75,113,8,Laptop,Phoenix,2025-07-10,10,67.32
+59,699,4,Monitor,San Diego,2025-03-24,8,18.59
+27,484,7,Laptop,Houston,2024-01-11,6,59.72
+52,447,5,Monitor,San Antonio,2022-09-16,6,48.37
+43,232,3,Smartphone,San Diego,2025-08-15,4,40.85
+59,939,4,Monitor,Dallas,2025-11-22,8,56.85
+98,282,4,Laptop,Phoenix,2025-06-08,4,44.51
+42,330,1,Keyboard,New York,2023-10-10,7,11.94
+48,432,3,Scanner,Houston,2023-01-27,6,70.85
+9,375,6,Laptop,Phoenix,2023-11-13,4,46.42
+68,291,1,Smartphone,Chicago,2025-07-21,5,42.63
+70,426,3,Headphones,San Diego,2024-02-28,8,62.4
+62,132,1,Printer,San Diego,2022-12-10,10,31.64
+94,403,2,Monitor,Houston,2023-01-05,9,17.92
+5,922,2,Keyboard,San Diego,2023-07-13,8,19.26
+26,395,8,Printer,San Antonio,2022-02-16,5,25.11
+68,775,7,Monitor,San Antonio,2024-10-10,6,59.69
+65,141,5,Headphones,Philadelphia,2024-02-29,10,36.5
+83,471,9,Scanner,Los Angeles,2023-12-13,2,59.0
+35,92,5,Headphones,Phoenix,2023-12-27,2,14.37
+41,578,5,Mouse,San Jose,2021-05-04,3,18.89
+38,347,10,Scanner,New York,2021-11-08,6,66.85
+2,980,2,Mouse,Chicago,2024-12-02,1,34.67
+10,549,4,Laptop,Los Angeles,2022-03-24,6,43.35
+75,371,9,Webcam,Houston,2024-12-20,7,31.66
+14,724,4,Mouse,Los Angeles,2026-01-01,9,37.41
+18,941,9,Mouse,Houston,2022-03-04,8,18.57
+90,984,10,Mouse,San Diego,2024-06-24,7,22.37
+20,816,10,Scanner,San Diego,2021-11-03,1,66.25
+68,880,8,Keyboard,Dallas,2025-03-16,3,34.27
+96,783,7,Monitor,San Antonio,2021-03-12,2,23.4
+13,868,6,Keyboard,Dallas,2025-11-03,3,60.74
+43,498,8,Mouse,Houston,2021-03-07,9,53.45
+23,552,9,Webcam,Dallas,2023-07-07,1,40.62
+24,487,4,Headphones,Houston,2021-05-28,2,56.72
+87,362,1,Scanner,Los Angeles,2024-05-27,7,64.32
+90,524,10,Headphones,Phoenix,2025-02-18,9,50.25
+25,719,7,Webcam,San Jose,2025-11-21,6,40.2
+37,483,9,Monitor,San Antonio,2021-04-25,2,31.54
+2,799,7,Tablet,Philadelphia,2024-02-17,2,61.18
+92,404,9,Scanner,Los Angeles,2023-10-15,10,20.4
+60,888,3,Tablet,Philadelphia,2023-01-13,2,40.29
+60,237,8,Scanner,Dallas,2024-05-21,3,42.9
+29,588,2,Laptop,Dallas,2024-09-07,3,57.22
+42,885,9,Tablet,Chicago,2024-07-07,3,74.91
+7,670,10,Keyboard,New York,2021-02-08,5,29.12
+52,192,4,Laptop,Philadelphia,2021-10-24,2,49.53
+35,222,6,Laptop,Philadelphia,2023-03-17,2,34.96
+86,779,4,Mouse,Houston,2022-08-09,10,43.37
+53,748,1,Printer,San Diego,2024-08-02,8,56.37
+55,667,10,Webcam,San Antonio,2021-01-25,1,57.12
+49,51,7,Smartphone,San Antonio,2024-07-24,3,60.4
+86,263,2,Scanner,San Antonio,2023-08-18,9,21.56
+97,481,7,Printer,Dallas,2022-06-12,9,24.15
+27,70,6,Monitor,Philadelphia,2022-10-03,9,61.91
+18,557,3,Scanner,Los Angeles,2024-02-09,3,43.43
+80,809,2,Printer,Chicago,2023-10-05,9,39.23
+5,367,8,Webcam,Phoenix,2021-06-13,9,57.86
+63,466,3,Smartphone,Phoenix,2021-01-16,6,69.23
+31,95,2,Scanner,San Antonio,2023-12-05,7,53.63
+35,547,6,Laptop,San Diego,2024-11-09,1,26.93
+83,837,4,Scanner,New York,2024-09-12,9,60.4
+40,858,5,Keyboard,New York,2021-04-12,10,40.69
+33,146,7,Keyboard,Philadelphia,2023-10-05,7,59.74
+73,673,6,Keyboard,Chicago,2024-12-02,9,71.9
+37,275,10,Mouse,Phoenix,2024-11-11,1,59.22
+33,547,4,Keyboard,San Jose,2021-07-14,3,55.18
+29,586,6,Smartphone,Philadelphia,2024-04-11,2,71.41
+36,970,5,Keyboard,Chicago,2023-12-04,1,24.79
+36,476,9,Keyboard,Phoenix,2023-12-25,5,21.1
+94,516,7,Mouse,Los Angeles,2023-11-11,10,14.9
+7,194,4,Keyboard,Los Angeles,2022-10-14,9,36.42
+19,179,1,Headphones,New York,2022-01-06,7,36.34
+53,959,3,Printer,Houston,2024-12-07,5,54.59
+5,626,4,Laptop,New York,2023-07-10,10,64.99
+39,701,3,Smartphone,Philadelphia,2025-04-05,3,32.96
+8,128,5,Webcam,New York,2025-12-05,9,14.37
+46,982,7,Scanner,Philadelphia,2022-03-04,3,23.2
+24,693,6,Laptop,Philadelphia,2021-02-22,8,32.98
+77,50,3,Printer,Los Angeles,2024-09-25,7,70.67
+18,308,2,Printer,Dallas,2025-12-28,8,55.25
+5,293,3,Scanner,Phoenix,2025-08-18,10,74.15
+39,562,5,Keyboard,San Antonio,2025-10-29,10,71.17
+7,75,10,Tablet,Philadelphia,2022-05-13,2,38.49
+56,545,6,Headphones,Houston,2023-07-01,10,52.72
+87,222,10,Monitor,San Diego,2025-04-05,7,73.11
+52,185,2,Smartphone,New York,2024-07-19,2,48.46
+57,636,4,Monitor,Dallas,2025-03-01,6,61.47
+37,250,5,Smartphone,Houston,2025-05-28,6,67.27
+58,732,9,Smartphone,Los Angeles,2021-01-30,7,23.18
+66,733,9,Scanner,Los Angeles,2024-10-13,9,65.67
+85,804,10,Tablet,San Jose,2022-04-18,9,48.12
+19,720,4,Smartphone,Philadelphia,2023-08-19,4,64.15
+68,616,4,Webcam,Chicago,2021-11-19,7,54.83
+36,433,3,Mouse,San Jose,2025-12-02,5,61.66
+7,312,4,Laptop,Phoenix,2021-05-07,5,65.32
+93,671,1,Keyboard,San Antonio,2022-04-28,4,14.32
+74,244,1,Webcam,Chicago,2025-04-21,10,24.25
+13,233,2,Tablet,San Jose,2024-04-06,10,34.26
+89,163,1,Printer,Philadelphia,2025-08-10,10,30.18
+36,912,7,Laptop,Houston,2025-10-28,3,16.12
+71,258,4,Laptop,Dallas,2025-05-15,8,55.97
+79,147,10,Printer,Houston,2024-01-20,7,29.55
+92,292,7,Smartphone,New York,2024-04-22,10,64.44
+1,948,3,Smartphone,San Antonio,2025-08-01,5,68.89
+10,184,7,Smartphone,Dallas,2021-09-17,6,60.3
+100,985,4,Printer,San Diego,2023-09-06,5,56.2
+69,733,6,Mouse,San Diego,2021-10-31,2,28.57
+87,597,4,Keyboard,Philadelphia,2024-04-13,6,62.9
+90,237,1,Tablet,New York,2021-08-07,9,35.16
+9,533,10,Mouse,Philadelphia,2023-07-17,2,73.52
+2,606,1,Headphones,Los Angeles,2022-03-23,1,37.6
+64,405,8,Smartphone,San Jose,2025-04-23,2,74.3
+41,165,9,Mouse,San Diego,2021-06-21,10,58.8
+44,61,5,Headphones,Houston,2023-07-12,3,39.8
+44,388,1,Smartphone,San Jose,2024-01-14,7,44.27
+0,108,9,Webcam,Houston,2021-05-07,4,39.74
+7,615,9,Keyboard,San Antonio,2022-02-18,9,57.85
+18,291,6,Smartphone,New York,2021-09-06,1,12.39
+74,613,10,Headphones,Chicago,2024-12-09,3,73.23
+77,130,8,Tablet,San Jose,2024-12-04,10,11.19
+80,458,4,Webcam,San Diego,2025-09-22,3,49.64
+22,355,10,Laptop,San Diego,2024-06-21,6,46.75
+15,56,6,Mouse,San Diego,2022-09-07,4,19.25
+21,330,4,Mouse,Phoenix,2021-10-01,10,35.53
+7,380,2,Monitor,New York,2023-12-22,10,69.36
+70,380,8,Monitor,Dallas,2022-12-04,6,58.79
+82,669,8,Mouse,San Diego,2024-05-27,5,53.83
+3,658,2,Webcam,Philadelphia,2024-03-16,5,58.31
+76,834,5,Webcam,Philadelphia,2024-02-23,6,58.6
+44,951,5,Monitor,Phoenix,2022-08-10,7,53.7
+75,296,4,Laptop,San Jose,2022-07-12,4,31.34
+7,570,2,Laptop,New York,2023-01-13,10,74.3
+64,744,9,Smartphone,Philadelphia,2023-03-18,10,16.58
+63,513,4,Printer,Dallas,2021-07-12,10,21.93
+75,703,1,Mouse,San Jose,2022-10-20,2,32.4
+46,384,1,Printer,Chicago,2024-02-11,1,42.14
+34,108,7,Scanner,New York,2021-06-18,3,42.78
+39,339,5,Tablet,Chicago,2025-11-06,4,37.6
+67,494,4,Monitor,San Diego,2023-11-05,3,54.22
+2,620,7,Tablet,Chicago,2024-02-23,8,23.24
+84,963,5,Scanner,Dallas,2022-09-25,2,29.25
+8,884,7,Monitor,Los Angeles,2025-09-07,10,58.7
+84,150,3,Smartphone,San Antonio,2022-09-27,6,12.14
+75,199,6,Laptop,San Antonio,2025-05-10,6,20.44
+6,373,6,Mouse,New York,2024-11-22,3,25.5
+12,768,6,Printer,Phoenix,2021-09-28,8,33.31
+34,894,7,Laptop,San Antonio,2021-03-24,1,32.89
+63,539,9,Tablet,Phoenix,2025-03-07,1,55.54
+6,202,4,Printer,San Diego,2025-05-22,6,23.73
+27,765,3,Smartphone,Phoenix,2022-09-01,1,48.68
+90,659,9,Monitor,San Jose,2023-08-27,2,11.84
+41,771,7,Monitor,San Antonio,2023-01-22,3,48.67
+42,538,9,Headphones,Houston,2024-02-14,6,62.2
+58,960,4,Tablet,Los Angeles,2025-10-28,7,29.64
+30,356,3,Printer,Houston,2024-02-21,6,74.2
+16,920,3,Mouse,Los Angeles,2021-08-13,3,36.32
+2,136,3,Printer,Houston,2024-08-03,8,28.4
+67,445,5,Keyboard,San Antonio,2025-04-10,9,52.48
+61,813,1,Laptop,New York,2022-07-22,10,54.92
+39,534,10,Webcam,Chicago,2021-11-10,1,69.36
+31,235,5,Tablet,Phoenix,2022-05-30,8,55.18
+62,282,9,Tablet,Houston,2024-10-04,2,28.35
+5,295,8,Laptop,San Jose,2025-11-21,2,45.0
+28,535,4,Mouse,Houston,2023-07-16,2,30.18
+25,345,6,Printer,San Antonio,2023-03-04,2,27.29
+71,665,6,Monitor,San Antonio,2022-09-24,8,69.22
+77,600,5,Smartphone,Dallas,2022-09-13,2,23.2
+94,403,8,Headphones,Chicago,2024-12-28,3,53.25
+22,606,10,Headphones,New York,2025-09-30,5,37.78
+27,849,7,Laptop,San Antonio,2021-03-20,6,29.71
+93,416,2,Tablet,San Antonio,2021-06-07,3,13.63
+78,357,2,Monitor,San Antonio,2023-08-15,3,33.77
+35,168,1,Mouse,San Diego,2024-07-16,10,65.5
+9,918,8,Keyboard,Phoenix,2021-04-09,6,33.82
+55,425,10,Webcam,San Jose,2021-08-24,3,13.6
+28,307,9,Laptop,San Antonio,2022-12-05,9,54.23
+36,737,5,Monitor,San Jose,2025-07-23,6,61.57
+83,520,2,Smartphone,Dallas,2021-03-18,4,34.45
+89,73,8,Scanner,New York,2022-12-17,1,16.29
+89,298,3,Headphones,Dallas,2022-11-01,10,57.76
+95,62,10,Webcam,New York,2024-06-14,4,74.64
+27,597,1,Tablet,San Antonio,2023-03-03,3,34.79
+46,541,8,Printer,Chicago,2023-07-02,2,41.92
+86,419,7,Printer,Phoenix,2024-06-11,4,71.51
+38,635,8,Smartphone,Dallas,2023-04-14,2,31.67
+18,747,4,Mouse,Houston,2022-08-06,2,57.52
+93,195,10,Keyboard,San Diego,2025-02-11,7,23.62
+19,473,10,Keyboard,San Jose,2023-04-27,3,50.3
+18,133,9,Printer,Philadelphia,2023-10-01,7,44.41
+11,493,8,Keyboard,Los Angeles,2024-06-15,10,43.34
+53,162,4,Tablet,New York,2023-12-05,2,64.1
+81,52,5,Headphones,Phoenix,2025-12-21,2,64.82
+72,262,8,Tablet,Phoenix,2022-02-13,2,16.38
+94,928,5,Scanner,Los Angeles,2021-03-23,2,11.59
+84,565,5,Laptop,Los Angeles,2025-11-01,6,46.1
+48,706,5,Webcam,New York,2025-01-03,5,50.83
+11,276,3,Mouse,Dallas,2022-08-14,2,50.81
+0,663,3,Tablet,Houston,2021-11-25,7,21.19
+59,946,2,Smartphone,San Diego,2025-04-17,8,12.95
+17,516,9,Smartphone,Dallas,2023-04-10,1,72.99
+35,902,5,Mouse,San Antonio,2022-01-27,4,39.82
+3,597,4,Webcam,San Diego,2024-08-12,9,15.53
+19,990,6,Headphones,San Antonio,2024-04-19,6,72.51
+14,888,3,Smartphone,Dallas,2025-06-19,7,22.38
+10,548,7,Monitor,Phoenix,2021-12-21,5,34.14
+51,823,1,Monitor,Chicago,2025-08-20,9,68.1
+27,699,5,Keyboard,Los Angeles,2022-07-06,6,68.22
+89,196,4,Webcam,Los Angeles,2021-07-19,5,34.32
+69,729,1,Headphones,New York,2022-11-18,1,36.61
+58,656,5,Keyboard,New York,2022-06-20,9,30.39
+23,701,5,Monitor,Philadelphia,2025-02-25,7,22.25
+96,423,8,Webcam,Chicago,2023-07-28,7,69.98
+6,668,3,Mouse,San Diego,2025-10-04,7,51.22
+55,698,7,Scanner,Houston,2021-10-16,9,34.33
+93,258,1,Keyboard,Houston,2021-08-04,9,13.44
+82,916,6,Tablet,Phoenix,2025-09-04,10,51.53
+69,855,10,Laptop,Houston,2024-09-10,2,44.47
+3,320,8,Smartphone,Dallas,2024-06-17,2,63.6
+37,695,9,Mouse,Los Angeles,2024-01-30,8,36.42
+40,886,1,Tablet,Philadelphia,2021-09-10,1,42.84
+1,468,9,Smartphone,Dallas,2023-06-05,3,17.41
+21,568,3,Headphones,Los Angeles,2021-02-07,10,31.94
+96,988,6,Webcam,Houston,2022-01-06,4,54.35
+32,842,3,Keyboard,Chicago,2025-11-17,4,60.19
+88,253,3,Tablet,San Antonio,2024-08-12,7,16.69
+25,71,1,Scanner,San Antonio,2021-08-11,2,55.33
+63,612,10,Smartphone,Los Angeles,2025-02-14,5,63.29
+3,230,2,Webcam,San Antonio,2022-11-04,4,46.39
+43,186,4,Mouse,Los Angeles,2022-06-17,6,58.81
+23,899,7,Keyboard,San Jose,2025-03-30,6,61.81
+41,636,4,Webcam,New York,2023-02-06,5,45.91
+91,657,5,Headphones,San Antonio,2022-08-12,10,27.88977952885601
+61,686,6,Monitor,Houston,2022-11-15,5,73.35
+14,770,3,Printer,Los Angeles,2021-12-06,8,70.66
+89,506,9,Keyboard,Los Angeles,2025-08-11,3,52.35
+76,899,1,Webcam,Houston,2022-12-21,9,61.63
+10,859,4,Mouse,San Jose,2021-03-01,6,26.35
+48,112,8,Scanner,Chicago,2022-03-06,1,68.53
+4,901,3,Laptop,Dallas,2023-01-24,2,45.31
+77,988,3,Printer,Houston,2022-01-30,6,35.27
+15,788,8,Headphones,Houston,2022-01-05,7,42.73
+50,334,9,Tablet,Chicago,2022-08-14,6,64.87
+52,724,1,Printer,New York,2021-04-01,10,41.53
+55,702,4,Webcam,Chicago,2023-11-27,4,13.23
+84,607,9,Smartphone,Dallas,2022-04-15,9,11.82
+64,409,10,Tablet,Dallas,2024-05-20,8,33.59
+0,710,3,Smartphone,Los Angeles,2024-09-19,7,31.34
+46,811,6,Webcam,Dallas,2023-11-06,6,38.1
+62,903,7,Smartphone,Chicago,2025-06-18,8,30.97
+15,573,3,Monitor,New York,2025-11-08,8,14.3
+12,594,5,Tablet,Dallas,2025-02-18,1,32.53
+14,105,1,Tablet,Phoenix,2025-09-06,2,65.34
+64,835,10,Mouse,Dallas,2021-09-16,10,21.76
+42,575,6,Tablet,New York,2021-07-12,5,74.0
+98,518,10,Laptop,Dallas,2025-03-25,2,35.15
+54,173,1,Smartphone,Dallas,2024-12-12,3,64.12
+14,566,4,Webcam,New York,2024-11-20,9,53.25
+4,969,7,Headphones,San Diego,2025-08-20,7,57.4
+80,317,4,Smartphone,Los Angeles,2022-06-15,2,53.87
+89,209,2,Mouse,Los Angeles,2021-03-30,9,70.42
+63,198,1,Keyboard,Chicago,2025-11-03,9,32.26
+35,203,5,Printer,Chicago,2022-09-23,1,37.34
+93,563,7,Headphones,San Jose,2021-05-30,6,72.23
+35,124,10,Headphones,Chicago,2023-07-10,4,41.54
+14,947,8,Printer,Chicago,2024-12-25,7,47.76
+92,314,2,Scanner,San Jose,2022-07-29,8,32.89
+97,894,1,Smartphone,Dallas,2022-09-22,3,42.52
+70,585,3,Keyboard,Los Angeles,2023-11-28,8,68.4
+93,975,8,Keyboard,Philadelphia,2025-11-15,7,71.52
+37,121,7,Smartphone,Dallas,2023-08-25,1,40.3
+38,238,5,Keyboard,Dallas,2023-07-28,4,42.45
+11,824,2,Scanner,Phoenix,2023-01-15,7,50.53
+20,318,9,Keyboard,Phoenix,2022-08-11,7,57.2
+42,556,9,Keyboard,Philadelphia,2024-05-30,6,40.41
+56,618,6,Scanner,San Diego,2024-06-13,5,47.31
+0,455,7,Monitor,Chicago,2021-02-15,10,57.15
+70,675,8,Smartphone,Dallas,2021-10-07,6,61.53
+8,864,8,Webcam,New York,2025-04-04,10,39.89
+95,729,7,Scanner,San Diego,2023-11-07,7,44.2
+75,402,9,Tablet,Los Angeles,2025-08-29,3,68.31
+9,291,6,Webcam,San Diego,2023-05-15,1,17.41
+13,940,9,Webcam,New York,2021-08-16,8,72.52
+12,240,10,Keyboard,Houston,2025-04-28,8,12.91258531978763
+74,516,4,Smartphone,Los Angeles,2024-06-24,10,63.4
+95,305,2,Headphones,New York,2024-09-28,8,11.5
+24,319,6,Keyboard,San Antonio,2023-06-18,5,11.64
+26,732,1,Monitor,Chicago,2022-01-17,7,42.6
+16,483,1,Keyboard,Phoenix,2023-07-22,7,65.62
+44,594,4,Mouse,Los Angeles,2024-09-12,9,66.32
+23,269,4,Monitor,Houston,2025-04-11,7,67.7
+53,411,8,Printer,Houston,2021-02-14,1,67.86
+95,83,9,Webcam,Houston,2024-07-02,3,23.86
+12,802,4,Keyboard,New York,2025-11-09,6,21.49
+79,329,4,Webcam,Philadelphia,2024-10-13,6,40.22
+33,775,9,Laptop,San Jose,2024-08-07,3,44.43
+68,191,9,Scanner,San Diego,2021-11-06,2,73.23
+5,178,10,Headphones,San Antonio,2022-03-25,7,62.77
+59,141,5,Webcam,Philadelphia,2025-09-09,5,24.55
+22,162,7,Webcam,San Jose,2021-05-02,7,44.43
+40,65,4,Mouse,San Antonio,2022-09-12,5,20.5
+6,516,1,Headphones,San Diego,2023-07-22,6,22.24
+12,925,6,Webcam,Chicago,2024-06-18,2,38.43
+13,329,4,Tablet,Philadelphia,2023-10-22,2,66.2
+54,605,3,Webcam,New York,2023-04-28,4,71.53
+92,99,6,Monitor,San Diego,2024-12-06,3,58.46
+6,495,3,Smartphone,New York,2025-01-14,10,13.3
+50,615,8,Smartphone,Houston,2025-06-15,5,19.64
+19,203,6,Mouse,Chicago,2024-02-23,10,32.3
+61,900,3,Laptop,San Diego,2025-01-02,6,24.13
+69,523,1,Smartphone,San Jose,2023-03-08,3,58.47
+50,471,1,Monitor,San Antonio,2025-09-27,8,56.44
+95,648,1,Mouse,Philadelphia,2023-08-08,1,27.65
+30,617,5,Webcam,New York,2022-06-09,6,39.8
+59,859,1,Tablet,Chicago,2025-06-21,2,45.39
+80,891,3,Tablet,San Diego,2022-09-19,1,68.99
+47,555,4,Mouse,Houston,2023-02-05,1,13.33
+40,842,9,Printer,San Jose,2022-07-05,1,52.7
+17,57,10,Monitor,Dallas,2025-06-05,7,71.86
+72,239,5,Mouse,New York,2021-09-12,1,65.99
+93,307,8,Printer,Phoenix,2025-09-18,6,21.81
+31,582,4,Headphones,Chicago,2024-12-16,1,17.62
+99,361,2,Mouse,Dallas,2025-08-11,8,57.79
+75,138,8,Headphones,Dallas,2024-04-17,5,31.12
+60,442,2,Tablet,Phoenix,2021-04-23,7,57.33
+41,833,3,Laptop,San Jose,2021-03-26,6,72.69
+21,869,1,Laptop,Dallas,2025-12-27,6,28.24
+79,226,5,Tablet,San Jose,2025-03-03,4,61.17
+47,189,3,Printer,Houston,2023-05-29,8,46.54
+11,929,5,Headphones,Los Angeles,2022-06-23,1,73.44
+13,439,3,Printer,Chicago,2024-05-20,3,66.53
+13,237,4,Tablet,San Diego,2022-03-26,5,48.8
+1,602,9,Headphones,San Jose,2022-05-01,6,24.35
+6,968,9,Keyboard,New York,2023-06-12,4,67.44
+75,593,5,Mouse,Phoenix,2024-06-22,9,15.0
+62,515,10,Keyboard,San Jose,2023-09-04,4,39.7
+21,196,5,Mouse,San Antonio,2021-10-31,5,67.78
+49,369,5,Headphones,Houston,2021-02-17,3,61.99
+1,590,9,Laptop,San Diego,2023-06-08,10,43.54
+31,107,9,Scanner,Dallas,2021-07-30,8,68.32
+34,710,9,Printer,Dallas,2021-09-21,8,25.89
+50,478,5,Headphones,San Diego,2023-12-20,10,29.63
+18,360,2,Mouse,Los Angeles,2023-05-10,5,48.53
+27,966,5,Monitor,San Diego,2025-12-25,1,26.5
+58,795,8,Webcam,Los Angeles,2025-08-14,1,69.85
+46,649,6,Printer,Los Angeles,2021-07-08,7,14.7
+78,251,5,Headphones,San Jose,2025-09-10,5,17.67
+35,258,4,Headphones,New York,2024-04-06,5,50.12
+39,880,7,Laptop,Houston,2025-12-31,8,73.51
+98,393,4,Scanner,New York,2023-05-07,7,45.84
+83,527,10,Headphones,Phoenix,2023-03-21,5,42.26
+14,715,3,Headphones,San Diego,2023-02-21,9,20.39
+49,311,5,Printer,San Jose,2023-05-31,4,40.61
+28,957,1,Printer,Phoenix,2022-03-02,7,59.7
+39,988,4,Headphones,Houston,2022-01-22,6,40.76
+41,926,7,Keyboard,Houston,2025-06-06,1,41.87
+21,683,5,Tablet,Dallas,2021-04-04,4,35.96
+42,324,9,Scanner,Los Angeles,2023-03-26,2,55.32
+12,265,10,Smartphone,New York,2024-08-08,5,23.55
+52,362,4,Mouse,Houston,2024-12-14,5,17.48
+42,456,7,Laptop,Philadelphia,2025-03-12,1,41.62
+72,388,7,Tablet,San Jose,2021-09-11,5,28.1
+75,967,2,Scanner,Philadelphia,2021-09-25,5,45.6
+33,903,10,Smartphone,Philadelphia,2025-10-18,9,33.99
+85,459,4,Printer,Dallas,2024-02-08,2,11.57
+75,314,9,Mouse,Dallas,2025-01-10,10,19.16
+47,861,3,Keyboard,Phoenix,2025-12-09,3,38.4
+91,801,7,Tablet,Chicago,2023-08-25,3,72.4
+52,628,8,Laptop,Chicago,2021-02-16,3,56.46
+25,734,8,Mouse,San Jose,2023-06-17,8,18.63
+61,273,9,Headphones,New York,2024-06-17,7,37.46
+91,530,9,Scanner,Houston,2024-11-28,7,70.95
+74,716,10,Webcam,Philadelphia,2025-12-03,4,49.7
+65,970,2,Keyboard,Houston,2024-07-02,2,31.31
+36,489,6,Printer,Phoenix,2021-10-17,1,27.7
+42,302,6,Smartphone,Dallas,2022-02-09,3,61.57
+38,546,10,Headphones,Houston,2024-06-28,8,32.86
+6,282,2,Tablet,San Diego,2022-08-31,7,56.94
+66,828,6,Printer,Houston,2024-06-20,2,73.86
+48,305,7,Scanner,Chicago,2021-02-24,8,72.13
+86,528,4,Tablet,Philadelphia,2021-01-30,6,57.14
+4,301,5,Headphones,Philadelphia,2022-10-30,8,25.94
+65,988,1,Headphones,Los Angeles,2024-02-24,7,10.68
+39,913,1,Smartphone,Philadelphia,2024-05-27,2,58.56
+93,812,10,Laptop,Philadelphia,2022-03-05,4,21.37
+31,940,2,Smartphone,San Diego,2025-09-19,9,10.74
+76,638,6,Tablet,Dallas,2024-05-20,7,55.53
+49,429,1,Webcam,Houston,2024-07-23,2,32.97
+6,145,5,Mouse,San Diego,2025-02-17,7,66.72
+69,427,5,Headphones,Phoenix,2021-01-29,4,31.51
+16,562,7,Smartphone,New York,2021-04-25,2,58.45
+79,973,7,Printer,Dallas,2024-02-22,1,46.1
+71,844,5,Keyboard,New York,2025-06-10,7,30.18
+53,305,6,Smartphone,San Diego,2023-04-24,4,63.28
+50,855,6,Webcam,San Jose,2024-07-01,9,47.53
+64,77,7,Monitor,Philadelphia,2024-06-21,6,41.27
+58,763,8,Monitor,San Diego,2025-01-15,5,69.19
+54,653,4,Laptop,Dallas,2022-05-03,9,70.17
+100,775,10,Mouse,San Antonio,2024-11-03,9,33.61
+25,768,1,Headphones,Chicago,2023-09-21,5,18.78
+23,995,3,Webcam,Los Angeles,2024-11-09,6,20.42
+40,461,1,Keyboard,San Jose,2025-08-02,6,17.8
+29,746,6,Mouse,Los Angeles,2025-07-12,3,74.58
+5,103,9,Webcam,New York,2023-06-26,10,44.89
+93,524,8,Monitor,Dallas,2021-04-08,5,13.56
+57,725,7,Printer,Philadelphia,2022-08-07,10,16.48
+65,123,1,Monitor,San Antonio,2022-08-18,9,47.2
+27,442,8,Mouse,San Jose,2025-08-07,6,20.2
+14,370,7,Mouse,Philadelphia,2023-08-25,8,63.59
+47,429,10,Scanner,New York,2025-11-01,5,26.1
+69,355,9,Keyboard,Phoenix,2025-08-28,3,34.58
+16,615,2,Tablet,Los Angeles,2023-12-13,2,66.74
+63,298,7,Keyboard,Los Angeles,2024-09-16,3,21.18
+79,401,5,Smartphone,San Jose,2021-07-04,2,50.91
+97,241,7,Keyboard,Philadelphia,2025-03-01,9,56.18
+83,758,8,Tablet,Los Angeles,2023-10-25,4,16.96
+49,176,4,Smartphone,San Diego,2021-09-19,3,20.29
+63,282,10,Monitor,New York,2025-07-29,9,15.55
+85,527,8,Keyboard,Philadelphia,2023-04-28,10,53.5
+10,205,5,Printer,Houston,2025-06-27,6,22.46
+78,496,8,Printer,San Jose,2023-07-28,1,40.3
+5,353,5,Mouse,Los Angeles,2025-04-04,4,30.93
+4,351,6,Smartphone,Philadelphia,2023-05-28,5,25.74
+12,988,8,Monitor,Houston,2023-05-23,3,17.26
+3,935,5,Scanner,Phoenix,2021-04-22,2,27.57
+94,368,3,Webcam,Philadelphia,2022-04-10,8,48.34
+81,832,5,Mouse,San Antonio,2021-03-24,1,37.79
+7,797,1,Printer,Phoenix,2022-10-31,1,14.46
+43,305,1,Monitor,Dallas,2022-12-28,8,49.35
+90,307,4,Tablet,Phoenix,2023-08-04,7,44.74
+73,434,2,Scanner,Phoenix,2023-09-27,2,28.34
+7,624,7,Laptop,San Jose,2023-05-04,3,53.64
+43,329,2,Laptop,Dallas,2023-09-16,7,32.59
+62,154,6,Scanner,Phoenix,2021-03-23,10,44.9
+52,615,4,Smartphone,Houston,2024-08-28,1,37.56
+2,664,2,Mouse,San Antonio,2024-12-19,9,61.39
+58,899,3,Smartphone,San Diego,2025-02-12,4,66.4
+85,638,10,Keyboard,Philadelphia,2025-11-25,8,31.96
+71,944,3,Smartphone,Dallas,2022-09-04,10,64.95
+30,623,9,Scanner,San Antonio,2025-09-09,9,16.4
+84,470,7,Webcam,Chicago,2025-05-12,6,49.48
+86,656,1,Laptop,Phoenix,2022-06-15,5,17.12
+71,248,9,Keyboard,Phoenix,2022-10-14,10,36.8
+2,849,3,Laptop,New York,2023-06-03,7,22.7
+5,292,5,Laptop,San Jose,2024-09-11,6,20.99
+43,73,10,Printer,Houston,2023-08-19,10,62.85
+80,232,5,Smartphone,Dallas,2024-06-03,2,28.36
+66,993,10,Keyboard,Los Angeles,2023-07-14,8,14.44
+70,289,9,Keyboard,San Diego,2025-10-22,5,42.86
+48,445,2,Laptop,Phoenix,2024-05-05,9,28.27
+77,287,2,Monitor,Chicago,2024-07-22,5,38.31
+16,750,4,Tablet,Dallas,2024-12-06,3,50.73
+7,903,9,Scanner,New York,2024-04-12,5,49.95
+91,857,5,Keyboard,Phoenix,2022-12-15,10,18.3
+61,817,3,Monitor,Chicago,2025-05-14,1,61.28
+25,771,10,Smartphone,San Antonio,2024-04-30,6,31.13
+35,341,10,Mouse,New York,2022-08-14,9,70.87
+27,943,9,Keyboard,Chicago,2022-06-30,6,18.67
+72,875,5,Smartphone,Chicago,2025-02-25,7,28.91
+16,636,4,Tablet,Dallas,2022-11-16,8,59.83
+2,631,9,Webcam,Los Angeles,2022-03-25,3,48.36
+88,231,5,Tablet,San Jose,2022-12-30,7,48.95
+32,905,8,Printer,San Antonio,2023-11-22,7,11.2
+73,909,3,Keyboard,Los Angeles,2021-01-21,5,51.46
+39,809,4,Tablet,Dallas,2024-05-10,1,19.95
+69,146,2,Webcam,Dallas,2023-03-22,8,72.78
+91,84,9,Headphones,San Jose,2022-09-22,1,50.58
+70,732,5,Keyboard,New York,2022-05-29,3,61.91
+97,269,1,Printer,Phoenix,2024-05-11,9,55.9
+94,674,5,Smartphone,Dallas,2025-02-15,2,74.83
+72,725,6,Smartphone,Philadelphia,2022-06-21,4,11.95
+87,256,4,Mouse,New York,2023-05-10,5,24.22
+37,442,3,Smartphone,San Diego,2021-03-28,1,27.19
+53,933,10,Laptop,Chicago,2022-04-20,3,45.76
+5,500,4,Printer,San Diego,2024-04-27,9,41.33
+32,354,10,Headphones,Houston,2024-12-23,3,24.15
+30,459,9,Scanner,San Jose,2024-02-26,9,11.38
+86,899,10,Mouse,Houston,2025-12-23,3,72.1
+53,78,10,Tablet,Philadelphia,2021-06-18,3,73.34
+59,288,2,Monitor,Phoenix,2023-05-22,8,38.85
+67,391,8,Tablet,Los Angeles,2025-08-17,6,47.29
+47,699,10,Keyboard,Los Angeles,2024-04-03,3,54.11
+56,380,9,Webcam,Dallas,2024-06-24,2,23.82
+32,999,8,Mouse,Houston,2024-06-17,5,70.8
+35,303,4,Printer,San Antonio,2024-10-30,6,23.73
+71,548,7,Headphones,Dallas,2023-03-29,8,70.99
+48,95,10,Laptop,Dallas,2025-02-26,5,31.260648108069898
+36,882,8,Headphones,San Diego,2023-05-23,5,62.39
+26,454,5,Headphones,Los Angeles,2023-12-26,2,56.24
+33,385,8,Webcam,Dallas,2021-08-24,1,27.24
+17,766,2,Smartphone,San Antonio,2025-12-05,7,12.18
+30,173,1,Tablet,Los Angeles,2021-10-19,2,12.36
+21,748,6,Monitor,Los Angeles,2021-04-28,5,70.74
+11,832,1,Mouse,Chicago,2022-09-30,9,50.4
+25,113,6,Mouse,Dallas,2022-11-14,9,72.64
+54,570,6,Webcam,San Antonio,2023-10-26,2,18.85
+69,771,6,Printer,San Diego,2021-03-08,10,57.23
+33,128,4,Printer,Chicago,2024-03-14,9,68.93
+93,481,8,Headphones,Philadelphia,2024-03-09,6,11.2
+87,803,7,Tablet,San Diego,2023-07-30,2,61.0130715590922
+50,290,10,Tablet,San Antonio,2025-12-03,9,53.42
+48,157,10,Headphones,New York,2022-11-13,8,52.30696814373049
+61,410,2,Laptop,San Diego,2021-07-13,8,44.53
+12,102,4,Scanner,Chicago,2023-05-21,8,74.26
+38,887,7,Webcam,Philadelphia,2021-03-18,6,14.0
+51,678,1,Smartphone,Philadelphia,2025-05-26,6,58.22
+58,173,3,Keyboard,Dallas,2022-05-28,10,74.35
+63,916,2,Headphones,San Jose,2022-01-05,2,26.94
+13,865,5,Printer,San Diego,2025-04-05,9,51.58
+70,327,4,Printer,San Diego,2024-03-31,1,63.68
+13,318,4,Webcam,Philadelphia,2021-06-29,4,73.3
+98,608,8,Scanner,San Jose,2023-05-18,3,74.23
+93,937,6,Headphones,Dallas,2022-10-07,3,27.71
+71,950,1,Scanner,San Antonio,2023-06-29,2,49.26
+65,946,7,Mouse,Chicago,2022-02-20,1,63.98
+61,839,4,Laptop,San Diego,2021-04-11,6,37.6
+63,885,4,Tablet,Philadelphia,2024-05-12,7,69.93
+76,926,3,Headphones,Los Angeles,2021-11-06,2,65.76
+79,625,6,Webcam,New York,2021-11-17,7,56.76
+9,679,10,Scanner,Chicago,2022-05-17,9,30.83
+100,615,6,Laptop,Los Angeles,2022-05-10,6,63.94
+30,540,5,Mouse,Chicago,2024-08-26,1,62.7
+70,704,7,Headphones,San Antonio,2024-09-06,6,46.81
+25,157,4,Mouse,Los Angeles,2021-07-15,6,71.89
+83,759,5,Tablet,San Diego,2021-07-31,5,30.37
+70,280,10,Tablet,Phoenix,2025-09-09,6,33.25
+67,526,3,Monitor,New York,2024-02-05,7,15.98
+23,140,5,Scanner,Los Angeles,2022-01-07,7,65.32
+34,60,10,Tablet,Houston,2022-02-14,10,30.74
+25,668,9,Smartphone,San Diego,2022-02-26,6,57.79
+68,192,2,Webcam,Chicago,2023-08-13,3,28.59
+69,605,1,Scanner,Dallas,2024-04-14,1,31.92
+53,296,7,Printer,Dallas,2025-01-16,4,28.68
+77,423,5,Scanner,Chicago,2022-05-13,3,68.63
+83,714,10,Printer,Philadelphia,2022-07-24,5,25.96
+13,669,8,Tablet,San Antonio,2023-03-04,2,54.9
+88,525,6,Monitor,Dallas,2025-10-14,5,53.7
+13,476,1,Printer,Houston,2024-04-30,7,21.2
+71,269,10,Headphones,San Jose,2021-06-08,8,40.26
+16,545,9,Monitor,Chicago,2021-07-22,3,57.54
+5,728,5,Keyboard,San Jose,2022-03-28,8,12.42
+27,793,9,Webcam,San Antonio,2023-03-14,3,25.43
+92,877,3,Monitor,Los Angeles,2022-03-09,5,60.84
+57,72,9,Scanner,San Jose,2022-09-10,9,24.94
+11,495,9,Tablet,Phoenix,2021-04-03,4,55.2
+85,840,7,Webcam,Chicago,2021-09-30,6,29.73
+97,374,9,Monitor,New York,2022-03-08,8,11.6
+98,399,1,Tablet,San Jose,2022-11-23,4,34.62
+13,934,10,Laptop,Phoenix,2022-04-28,2,22.8
+87,862,8,Smartphone,San Antonio,2024-04-09,5,25.65
+85,878,7,Scanner,New York,2022-10-14,10,43.8
+96,153,3,Mouse,Dallas,2025-05-02,6,25.8
+68,191,4,Tablet,Philadelphia,2023-06-08,9,26.85
+61,118,2,Mouse,Houston,2022-09-30,6,67.83132426817849
+80,902,6,Headphones,San Antonio,2022-03-23,10,61.54
+40,300,1,Printer,Philadelphia,2021-08-08,8,31.9
+3,738,7,Mouse,San Diego,2023-02-11,8,25.83
+3,242,6,Keyboard,Dallas,2025-10-12,1,62.53
+51,755,7,Laptop,Los Angeles,2023-05-19,5,12.36
+13,586,6,Webcam,New York,2025-07-24,4,70.63
+48,987,7,Monitor,Los Angeles,2023-04-23,7,47.55
+97,471,2,Webcam,Philadelphia,2024-02-11,10,14.51
+7,561,2,Laptop,San Diego,2023-04-22,10,52.86
+21,969,10,Laptop,Chicago,2025-03-11,2,46.63
+3,207,9,Tablet,San Antonio,2025-03-12,8,66.2
+39,893,2,Webcam,San Antonio,2025-12-09,9,23.68
