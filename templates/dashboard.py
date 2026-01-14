@@ -2,12 +2,12 @@ import streamlit as st
 import pandas as pd
 
 # Configuration Session
-YEAR = 2023
-P_YEAR = 2022
-CITIES = ["Tokyo", "Yokohama", "Osaka"]
-DATA = "https://raw.githubusercontent.com/doerayme1224-bot/sales/refs/heads/main/data/sales.csv"
+YEAR = 2025
+P_YEAR = 2024
+CITIES = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix', 'Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
+DATA = "https://raw.githubusercontent.com/doerayme1224-bot/Store_Sales_Fake_Data/refs/heads/main/data/fakesalesdata.csv"
 
-st.title("Dashboard of Sales", anchor=False)
+st.title("Dashboard of Store Sales", anchor=False)
 
 # Caching Data Session
 @st.cache_data
@@ -28,7 +28,7 @@ city_revenues = (
     .assign(change=lambda x: x.pct_change(axis=1)[YEAR] * 100)
 )
 # Displaying Data for each city in separate columns Session
-columns = st.columns(3)
+columns = st.columns(10)
 for i, city in enumerate(CITIES):
     with columns[i]:
         st.metric(
@@ -57,7 +57,7 @@ st.write(f"**Sales for {visualization_year}**")
 if analysis_type == "Product Category":
     filtered_data = (
         df.query("city == @selected_city & year == @visualization_year")
-        .groupby("product_category", dropna=False)["sales_amount"]
+        .groupby("product_name", dropna=False)["sales_amount"]
         .sum()
         .reset_index()
     )

@@ -2,7 +2,7 @@ import streamlit as st
 
 
 
-st.title("Sore Sales Project")
+st.title("Store Sales Project")
 
 # --- Pages Section Setup ---
 
